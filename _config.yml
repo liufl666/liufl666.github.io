@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "c / BIO"
+title                    : "Liu Fenglin / BIO"
 title_separator          : "-"
 name                     : &name "Liu Fenglin"
 description              : &description "personal description"
@@ -61,7 +61,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "gpyinlong"
+  steam            : "76561198319298541"
   telegram         : # URL
   tumblr           : # Username
   twitter          : "GPYINLONG"  # Replace this with your X / Twitter handle
