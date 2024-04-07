@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* M.S. in Shenzhen, Shenzhen University, 2022-2025
-* B.S. in Changchun, Changchun University of Science and Technology, 2018-2022
+* M.S. in Optical Engineering, Shenzhen University, 2022-2025
+* B.S. in Optoelectronic Information Science and Engineering, Changchun University of Science and Technology, 2018-2022
 
 Work experience
 ======
-* 2023-2024: Algorithm Engineer
-  * Midea Group
+* 2023-2024: Midea Group
+  * Algorithm Engineer
   * Duties includes:
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Proficient in Python and its standard library, PyTorch, C/C++, Linux system and Shell commands, OpenCV, as well as 51 single-chip microcomputer.
+* credentials
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
