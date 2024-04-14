@@ -1,15 +1,25 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi there! I'm Liu Fenglin, and I am currently a second-year graduate student in the Intelligent Perception and Control Lab at Shenzhen University. My primary research focus lies in 3D point clouds and embodied intelligence.
 
-A data-driven personal website
+During my internship at Midea Group, I served as an algorithm engineer intern for a year, specializing in the exploration of cutting-edge 3D point cloud multimodal models. During this time, I independently developed a dual-modal model for point cloud text, enabling the description of input point clouds. This model achieved state-of-the-art performance in zero-shot classification on the ScanObjectNN dataset. Additionally, I participated in Midea's self-developed 3D industrial camera project, where I was responsible for developing a point cloud display module using OpenGL. I successfully completed the module development from scratch within two days, ensuring the timely launch of the product demo. My internship also involved testing the effectiveness of segmentation and detection models in practical business scenarios, contributing to the exploration of new business directions.
+
+During my undergraduate studies, I served as a project leader, overseeing a provincial-level innovation project. My responsibilities included conducting laser experiments and analyzing experimental data using matplotlib. My graduation project focused on the calibration method of binocular cameras, employing Zhang Zhengyou's camera calibration method to achieve target ranging within a 10-meter range.
+
+As a graduate student, I have used OpenCV to process and recognize QR codes under uneven lighting conditions, and I have compared the recognition performance of several neural networks on handwritten font datasets. Currently, I am exploring the application of embodied intelligence to the laboratory's existing robotic arms, as well as the intelligent grasping processes of these arms.
+
+I possess a strong learning drive and self-motivation in the field of multimodality and eagerly anticipate exchanges of ideas with those who share the same passion for growth and exploration.
+<!-- 
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -46,4 +56,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
