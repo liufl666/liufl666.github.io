@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* M.S. in Optical Engineering, Shenzhen University, 2022-2025
-* B.S. in Optoelectronic Information Science and Engineering, Changchun University of Science and Technology, 2018-2022
+* M.S. in Optical Engineering, [Shenzhen University](https://www.szu.edu.cn/), 2022-2025
+* B.S. in Optoelectronic Information Science and Engineering, [Changchun University of Science and Technology](https://www.cust.edu.cn/), 2018-2022
 
 Work experience
 ======
-* 2023-2024: Midea Group
+* 2023-2024: [Midea Group](https://www.midea.com.cn/)
   * Algorithm Engineer
   * Duties includes:
   
